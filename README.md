@@ -157,6 +157,8 @@ At month one after symptom resolution, n=58 subjects were participating in sport
 |                                         | 1.0 |           | 52 (64.20)    | 12 (52.17)    | 40 (68.97)    |        |
 
 
+**Figure 3:** Box plots showing the median and IQR between those who are and are not participating in sports at month one after symptom resolution. 
+<img src="figs/Figure3.png" alt="box plot 1" width="600">  
 
 
 Group differences between cumulative sport participation
@@ -171,3 +173,5 @@ KM curve predicting time to sport participation
 Try with and without 160hr people included
 
 Try with and without those <3-months post-sxres ('3_mo_sxres')
+
+Add DOI to M1 and look at clearance to rtp
