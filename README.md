@@ -139,3 +139,11 @@ Group differences between month one sport participation
 Group differences between cumulative sport participation
 
 KM curve predicting time to sport participation
+
+
+
+
+
+Try with and without 160hr people included
+
+Try with and without those <3-months post-sxres ('3_mo_sxres')
