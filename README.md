@@ -49,7 +49,7 @@ Last, we constructed a Cox Proportional Hazards model to evaluate the hazard of 
 # Results
 
 ## Sample demographics and such:
-The trial enrolled 132 subjects, with 89 being at least 3-months post-symptom resolution and having completed at least one monthly survey in that time. The average time to study enrollment after concussion was 13.1 (4.5) days. The average time to symptom resolution was 34.1 (23.7) days, with a range of 10 to 138 days. The mean sample age was 15.8 (1.5) years and 49% (n=44) were female biological sex. Remaining demographics are reported in Table 1. 
+A total of 89 subjects were at least 3 months post-symptom resolution and had completed at least one monthly survey in that time. The average time to study enrollment after concussion was 13.1 (4.5) days. The average time to symptom resolution was 34.1 (23.7) days, with a range of 10 to 138 days. The mean sample age was 15.8 (1.5) years and 49% (n=44) were female biological sex. Remaining demographics are reported in Table 1. 
 
 **Table 1:** @Meghan, here is a basic table 1 demographics that you can include in your paper. 
 |                                         |      | Missing   | Overall        |
@@ -134,7 +134,30 @@ Cumulative percentage of subjects participating in sports and hours of sport par
 
 ## Secondary objective: 
 
-Group differences between month one sport participation
+At month one after symptom resolution, n=58 subjects were participating in sport, n=23 were not, and n=8 did not complete the survey. Mean and standard devation or n (%) are provided in table 3 below. 
+
+**Table 3:** Comparing those participating and not participating in sports at one month after symptom resolution. P-values refelct Wilcoxon Rank Sum tests or Chi Squared tests for between-group differences. 
+|                                         |     | Missing   | Overall       |Not participating|Participating| P value|
+|-----------------------------------------|-----|-----------|---------------|---------------|---------------| -------|
+| n                                       |     |           | 81            | 23            | 58            |        |
+| doi_to_sxresolution, mean (SD)          |     | 5         | 35.17 (24.34) | 35.75 (27.11) | 34.96 (23.54) | 0.6245 |
+| age_visit, mean (SD)                    |     | 0         | 15.81 (1.51)  | 15.77 (1.55)  | 15.82 (1.50)  | 0.7693 |
+| pcsi_sxresolution, mean (SD)            |     | 0         | 4.73 (7.58)   | 6.52 (7.23)   | 4.03 (7.66)   | 0.0566 |
+| tsk_sxresolution, mean (SD)             |     | 0         | 31.91 (6.35)  | 33.30 (6.73)  | 31.36 (6.16)  | 0.4508 |
+| promis_physfunc_sxresolution, mean (SD) |     | 0         | 0.86 (2.08)   | 1.48 (3.40)   | 0.62 (1.20)   | 0.5540 |
+| iprrs_sxresolution, mean (SD)           |     | 8         | 51.89 (9.74)  | 49.29 (13.90) | 52.88 (7.56)  | 0.5991 |
+| sx_to_m1, mean (SD)                     |     | 15        | 48.20 (13.10) | 48.06 (12.00) | 48.25 (13.61) | 0.6194 |
+| fivep_sex, n (%)                        | 0.0 |           | 40 (49.38)    | 14 (60.87)    | 26 (44.83)    | 0.2911 |
+|                                         | 2.0 |           | 41 (50.62)    | 9 (39.13)     | 32 (55.17)    |        |
+| sports_yn, n (%)                        | 0.0 |           | 12 (14.81)    | 8 (34.78)     | 4 (6.90)      | 0.0045 |
+|                                         | 1.0 |           | 69 (85.19)    | 15 (65.22)    | 54 (93.10)    |        |
+| conc_hx_yn, n (%)                       | 0.0 |           | 39 (48.15)    | 14 (60.87)    | 25 (43.10)    | 0.2315 |
+|                                         | 1.0 |           | 42 (51.85)    | 9 (39.13)     | 33 (56.90)    |        |
+| mskinjury_hx_yn, n (%)                  | 0.0 |           | 29 (35.80)    | 11 (47.83)    | 18 (31.03)    | 0.2443 |
+|                                         | 1.0 |           | 52 (64.20)    | 12 (52.17)    | 40 (68.97)    |        |
+
+
+
 
 Group differences between cumulative sport participation
 
