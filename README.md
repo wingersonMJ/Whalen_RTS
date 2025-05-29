@@ -115,4 +115,14 @@ Participation in sports was reported by 65.2% of subjects (n=58) in month one af
 | total_hrs_2, mean (SD)                  |      | 38        | 32.49 (21.59)  |
 | total_hrs_3, mean (SD)                  |      | 51        | 33.56 (23.47)  |
 | avg_hrs_total, mean (SD)                |      | 18        | 31.13 (21.66)  |
-| surveys_completed, mean (SD)            |      | 0         | 1.00 (0.00)    |
+
+Cumulative percentage of subjects participating in sports and hours of sport participation are shown in Figure 1. Average hours of sport participation across all three months is shown in Figure 2. 
+
+**Figure 1:** Cumulative percent of subjects who have reported participating in sports at some point by months one, two, and three (black line). The average practice and game hours participating in sport for months one, two and three are also shown (grey dashed line). Note the different y-axes on the left and right side of the plot, corresponding in color to their line plot. 
+
+
+
+**Figure 2:** A smoothed kernel density plot showing the distribution of sport participation hours. The vertical dahsed line represents the sample median. 
+
+
+
