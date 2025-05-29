@@ -188,10 +188,12 @@ At three months after symptom resolution, n=74 subjects had participated in spor
 **Figure 4:** Box plots showing the median and IQR between those who are and are not participating in sports at month one after symptom resolution. 
 <img src="figs/Figure4.png" alt="box plot 2" width="1000">  
 
+---
 
+Last, we constructed a Cox Proportional Hazards model to evaluate how sport-related injury mechanism and PCSI score at symptom resolution were associated with the hazard of sport participation in the three months after concussion symptoms had resolved. We found that the hazard of sport participation was significantly higher among subjects with a sport-related mechanism of injury (HR: 2.37; 95% CI: 1.07, 5.24; p-value: 0.03). Those who sustained their injury in sports had 2.37 times the likelihood of earlier participation in sports during the three months following symptom resolution, compared to those who did not sustain injury during sports. PCSI score was not significantly associated with hazard of sport participation (HR: 0.99; 95% CI: 0.96, 1.03; p-value: 0.76). 
 
-
-KM curve predicting time to sport participation
+**Figure 5:** Kaplan Meier curve showing the probability of returing to sport participation by month after concussion symptom resolution. 
+<img src="figs/Figure5.png" alt="KM curve" width="600">  
 
 
 ---
