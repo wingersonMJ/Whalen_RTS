@@ -120,9 +120,11 @@ Cumulative percentage of subjects participating in sports and hours of sport par
 
 **Figure 1:** Cumulative percent of subjects who have reported participating in sports at some point by months one, two, and three (black line). The average practice and game hours participating in sport for months one, two and three are also shown (grey dashed line). Note the different y-axes on the left and right side of the plot, corresponding in color to their line plot. 
 
+<img src="figs/figure1.png" alt="cumulative percent plot" width="1000">  
 
 
 **Figure 2:** A smoothed kernel density plot showing the distribution of sport participation hours. The vertical dahsed line represents the sample median. 
 
+<img src="figs/figure2.png" alt="KDE plot" width="1000">  
 
 
