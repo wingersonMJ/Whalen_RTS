@@ -24,6 +24,7 @@ Our **secondary objective** was to investigate clinical, injury, and demographic
 
 # Methods
 
-## Study design: 
-@Meghan - this is the MEDIC study, so you will need to describe the following: 
+## Study design:  
+
+Meghan - this is the MEDIC study, so you will need to describe the following: 
 - 
