@@ -80,6 +80,9 @@ The trial enrolled 132 subjects, with 89 being at least 3-months post-symptom re
 | sx_to_m2, mean (SD)                     |      | 23        | 76.23 (10.15)  |
 | sx_to_m3, mean (SD)                     |      | 39        | 108.04 (13.06) |
 
+
+## Primary objective: 
+
 Participation in sports was reported by 65.2% of subjects (n=58) in month one after symptom resolution, and by 59.6% (n=53) and 44.9% (of subjects in months two and three post-symptom resolution, although survey non-response rates also increased each month. Cumulatively, by month one 65.17% of subjects (n=58) had reported sport participation, by month two 78.65% (n=70) had reported sport participation at some point in the previous two months, and by month three 83.15% (n=74) had reported sport participation at some point in the previous three months. Sport participation rates and hours of participation are reported in Table 2. 
 
 **Table 2:** Sport participation rates and hours of participation, as self-reported on monthly surveys one, two, and three months after concussion symptom resolution. 
@@ -118,7 +121,7 @@ Participation in sports was reported by 65.2% of subjects (n=58) in month one af
 
 Cumulative percentage of subjects participating in sports and hours of sport participation are shown in Figure 1. Average hours of sport participation across all three months is shown in Figure 2. 
 
-**Figure 1:** Cumulative percent of subjects who have reported participating in sports at some point by months one, two, and three (grey dashed line). The average practice and game hours participating in sport for months one, two and three are also shown (black solid line). Note the different y-axes on the left and right side of the plot, corresponding in color to their line plot. 
+**Figure 1:** Cumulative percent of subjects who have reported participating in sports at some point by months one, two, and three (grey dashed line). The average practice and game hours participating in sport for months one, two and three are also shown (black solid line). Note the different y-axes on the left and right sides of the plot, corresponding in color to their line plot. 
 
 <img src="figs/Figure1.png" alt="cumulative percent plot" width="600">  
 
@@ -128,3 +131,11 @@ Cumulative percentage of subjects participating in sports and hours of sport par
 <img src="figs/Figure2.png" alt="KDE plot" width="600">  
 
 
+
+## Secondary objective: 
+
+Group differences between month one sport participation
+
+Group differences between cumulative sport participation
+
+KM curve predicting time to sport participation
