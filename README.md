@@ -49,6 +49,36 @@ Last, we constructed a Cox Proportional Hazards model to evaluate the hazard of 
 # Results
 
 ## Sample demographics and such:
+The trial enrolled 132 subjects, with 89 being at least 3-months post-symptom resolution and having completed at least one monthly survey in that time. The average time to study enrollment after concussion was 13.1 (4.5) days. The average time to symptom resolution was 34.1 (23.7) days, with a range of 10 to 138 days. The mean sample age was 15.8 (1.5) years and 49% (n=44) were female biological sex. Remaining demographics are reported in Table 1. 
+
+**Table 1:** @Meghan, here is a basic table 1 demographics that you can include in your paper. 
+|                                         |      | Missing   | Overall        |
+|-----------------------------------------|------|-----------|----------------|
+| n                                       |      |           | 89             |
+| doi_to_v1, mean (SD)                    |      | 0         | 13.13 (4.52)   |
+| doi_to_sxresolution, mean (SD)          |      | 5         | 34.07 (23.73)  |
+| fivep_sex, n (%)                        | 0.0  |           | 45 (50.56)     |
+|                                         | 2.0  |           | 44 (49.44)     |
+| age_visit, mean (SD)                    |      | 0         | 15.75 (1.50)   |
+| race___0, n (%)                         | 0    |           | 85 (95.51)     |
+|                                         | 1    |           | 4 (4.49)       |
+| race___1, n (%)                         | 0    |           | 87 (97.75)     |
+|                                         | 1    |           | 2 (2.25)       |
+| race___2, n (%)                         | 0    |           | 80 (89.89)     |
+|                                         | 1    |           | 9 (10.11)      |
+| race___3, n (%)                         | 0    |           | 89 (100.00)    |
+| race___4, n (%)                         | 0    |           | 12 (13.48)     |
+|                                         | 1    |           | 77 (86.52)     |
+| race___6, n (%)                         | 0    |           | 84 (94.38)     |
+|                                         | 1    |           | 5 (5.62)       |
+| ethnicity, n (%)                        | 0.0  |           | 15 (16.85)     |
+|                                         | 1.0  |           | 68 (76.40)     |
+|                                         | 2.0  |           | 5 (5.62)       |
+|                                         | None |           | 1 (1.12)       |
+| pcsi_initial, mean (SD)                 |      | 0         | 37.45 (21.26)  |
+| sx_to_m1, mean (SD)                     |      | 23        | 48.20 (13.10)  |
+| sx_to_m2, mean (SD)                     |      | 23        | 76.23 (10.15)  |
+| sx_to_m3, mean (SD)                     |      | 39        | 108.04 (13.06) |
 
 
 
