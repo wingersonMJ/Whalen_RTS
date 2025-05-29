@@ -205,3 +205,5 @@ Try with and without 160hr people included
 Try with and without those <3-months post-sxres ('3_mo_sxres')
 
 Add DOI to M1 and look at clearance to rtp
+
+Add median and p-values to final box plots
