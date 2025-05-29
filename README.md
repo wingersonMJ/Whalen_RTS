@@ -119,14 +119,14 @@ Participation in sports was reported by 65.2% of subjects (n=58) in month one af
 | total_hrs_3, mean (SD)                  |      | 51        | 33.56 (23.47)  |
 | avg_hrs_total, mean (SD)                |      | 18        | 31.13 (21.66)  |
 
-Cumulative percentage of subjects participating in sports and hours of sport participation are shown in Figure 1. Average hours of sport participation across all three months is shown in Figure 2. 
+The cumulative percentage of subjects participating in sports and hours of sport participation are shown in Figure 1. Average hours of sport participation across all three months is shown in Figure 2. 
 
 **Figure 1:** Cumulative percent of subjects who have reported participating in sports at some point by months one, two, and three (grey dashed line). The average practice and game hours participating in sport for months one, two and three are also shown (black solid line). Note the different y-axes on the left and right sides of the plot, corresponding in color to their line plot. 
 
 <img src="figs/Figure1.png" alt="cumulative percent plot" width="600">  
 
 
-**Figure 2:** A smoothed kernel density plot showing the distribution of sport participation hours. The vertical dahsed line represents the sample median. 
+**Figure 2:** A smoothed kernel density plot showing the distribution of sport participation hours. The vertical dashed line represents the sample median. 
 
 <img src="figs/Figure2.png" alt="KDE plot" width="600">  
 
@@ -134,9 +134,9 @@ Cumulative percentage of subjects participating in sports and hours of sport par
 
 ## Secondary objective: 
 
-At month one after symptom resolution, n=58 subjects were participating in sport, n=23 were not, and n=8 did not complete the survey. Mean and standard devation or n (%) are provided in table 3 below. 
+At month one after symptom resolution, n=58 subjects were participating in sport, n=23 were not, and n=8 did not complete the survey. Mean and standard deviation or n (%) are provided in Table 3 below. 
 
-**Table 3:** Comparing those participating and not participating in sports at one month after symptom resolution. P-values refelct Wilcoxon Rank Sum tests or Chi Squared tests for between-group differences. 
+**Table 3:** Comparing those participating and not participating in sports at one month after symptom resolution. P-values reflect Wilcoxon Rank Sum tests or Chi Squared tests for between-group differences. 
 |                                         |     | Missing   | Overall       |Not participating|Participating| P value|
 |-----------------------------------------|-----|-----------|---------------|---------------|---------------| -------|
 | n                                       |     |           | 81            | 23            | 58            |        |
@@ -158,10 +158,38 @@ At month one after symptom resolution, n=58 subjects were participating in sport
 
 
 **Figure 3:** Box plots showing the median and IQR between those who are and are not participating in sports at month one after symptom resolution. 
-<img src="figs/Figure3.png" alt="box plot 1" width="600">  
+<img src="figs/Figure3.png" alt="box plot 1" width="1000">  
+
+--- 
+
+At three months after symptom resolution, n=74 subjects had participated in sport (cumulative), n=15 had not, and n=0 failed to complete at least one survey in the three months. Mean and standard deviation or n (%) are provided in Table 4 below. 
+
+**Table 4:** Comparing those participating and not participating in sports within three months of symptom resolution. P-values reflect Wilcoxon Rank Sum tests or Chi Squared tests for between-group differences. 
+|                                         |     | Missing   | Overall       | 0             | 1             | p-value |
+|-----------------------------------------|-----|-----------|---------------|---------------|---------------| ------- |
+| n                                       |     |           | 89            | 15            | 74            | 
+| doi_to_sxresolution, mean (SD)          |     | 5         | 34.07 (23.73) | 41.38 (31.37) | 32.73 (22.08) | 0.6517  |
+| age_visit, mean (SD)                    |     | 0         | 15.75 (1.50)  | 16.04 (1.70)  | 15.69 (1.47)  | 0.4865  | 
+| pcsi_sxresolution, mean (SD)            |     | 0         | 4.48 (7.36)   | 5.47 (7.45)   | 4.28 (7.37)   | 0.4628  |
+| tsk_sxresolution, mean (SD)             |     | 0         | 31.88 (6.17)  | 32.80 (7.28)  | 31.69 (5.96)  | 0.9956  |
+| promis_physfunc_sxresolution, mean (SD) |     | 0         | 0.92 (2.15)   | 1.93 (3.99)   | 0.72 (1.50)   | 0.2409  |
+| iprrs_sxresolution, mean (SD)           |     | 8         | 52.09 (9.47)  | 47.76 (15.23) | 52.92 (7.82)  | 0.3958  | 
+| sx_to_m1, mean (SD)                     |     | 23        | 48.20 (13.10) | 48.92 (14.03) | 48.04 (13.02) | 0.5776  | 
+| fivep_sex, n (%)                        | 0.0 |           | 45 (50.56)    | 9 (60.00)     | 36 (48.65)    | 0.6040  | 
+|                                         | 2.0 |           | 44 (49.44)    | 6 (40.00)     | 38 (51.35)    |         | 
+| sports_yn, n (%)                        | 0.0 |           | 12 (13.48)    | 5 (33.33)     | 7 (9.46)      | 0.0400  | 
+|                                         | 1.0 |           | 77 (86.52)    | 10 (66.67)    | 67 (90.54)    |         |
+| conc_hx_yn, n (%)                       | 0.0 |           | 44 (49.44)    | 9 (60.00)     | 35 (47.30)    | 0.5392  |
+|                                         | 1.0 |           | 45 (50.56)    | 6 (40.00)     | 39 (52.70)    |         |
+| mskinjury_hx_yn, n (%)                  | 0.0 |           | 32 (35.96)    | 6 (40.00)     | 26 (35.14)    | 0.9498  |
+|                                         | 1.0 |           | 57 (64.04)    | 9 (60.00)     | 48 (64.86)    |         |
 
 
-Group differences between cumulative sport participation
+**Figure 4:** Box plots showing the median and IQR between those who are and are not participating in sports at month one after symptom resolution. 
+<img src="figs/Figure4.png" alt="box plot 2" width="1000">  
+
+
+
 
 KM curve predicting time to sport participation
 
