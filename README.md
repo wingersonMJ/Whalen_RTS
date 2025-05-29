@@ -80,5 +80,39 @@ The trial enrolled 132 subjects, with 89 being at least 3-months post-symptom re
 | sx_to_m2, mean (SD)                     |      | 23        | 76.23 (10.15)  |
 | sx_to_m3, mean (SD)                     |      | 39        | 108.04 (13.06) |
 
+Participation in sports was reported by 65.2% of subjects (n=58) in month one after symptom resolution, and by 59.6% (n=53) and 44.9% (of subjects in months two and three post-symptom resolution, although survey non-response rates also increased each month. Cumulatively, by month one 65.17% of subjects (n=58) had reported sport participation, by month two 78.65% (n=70) had reported sport participation at some point in the previous two months, and by month three 83.15% (n=74) had reported sport participation at some point in the previous three months. Sport participation rates and hours of participation are reported in Table 2. 
 
-
+**Table 2:** Sport participation rates and hours of participation, as self-reported on monthly surveys one, two, and three months after concussion symptom resolution. 
+|                                         |      | Missing   | Overall        |
+|-----------------------------------------|------|-----------|----------------|
+| n                                       |      |           | 89             |
+| sports_partic_yn_1, n (%)               | 0.0  |           | 23 (25.84)     |
+|                                         | 1.0  |           | 58 (65.17)     |
+|                                         | None |           | 8 (8.99)       |
+| sports_partic_yn_2, n (%)               | 0.0  |           | 22 (24.72)     |
+|                                         | 1.0  |           | 53 (59.55)     |
+|                                         | None |           | 14 (15.73)     |
+| sports_partic_yn_3, n (%)               | 0.0  |           | 17 (19.10)     |
+|                                         | 1.0  |           | 40 (44.94)     |
+|                                         | None |           | 32 (35.96)     |
+| number_sports_1, mean (SD)              |      | 32        | 1.16 (0.45)    |
+| number_sports_2, mean (SD)              |      | 37        | 1.35 (0.71)    |
+| number_sports_3, mean (SD)              |      | 49        | 1.18 (0.45)    |
+| number_sports_1, n (%)                  | 1.0  |           | 50 (56.18)     |
+|                                         | 2.0  |           | 5 (5.62)       |
+|                                         | 3.0  |           | 2 (2.25)       |
+|                                         | None |           | 32 (35.96)     |
+| number_sports_2, n (%)                  | 1.0  |           | 39 (43.82)     |
+|                                         | 2.0  |           | 10 (11.24)     |
+|                                         | 3.0  |           | 1 (1.12)       |
+|                                         | 4.0  |           | 2 (2.25)       |
+|                                         | None |           | 37 (41.57)     |
+| number_sports_3, n (%)                  | 1.0  |           | 34 (38.20)     |
+|                                         | 2.0  |           | 5 (5.62)       |
+|                                         | 3.0  |           | 1 (1.12)       |
+|                                         | None |           | 49 (55.06)     |
+| total_hrs_1, mean (SD)                  |      | 34        | 25.32 (18.58)  |
+| total_hrs_2, mean (SD)                  |      | 38        | 32.49 (21.59)  |
+| total_hrs_3, mean (SD)                  |      | 51        | 33.56 (23.47)  |
+| avg_hrs_total, mean (SD)                |      | 18        | 31.13 (21.66)  |
+| surveys_completed, mean (SD)            |      | 0         | 1.00 (0.00)    |
