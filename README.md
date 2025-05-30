@@ -88,38 +88,44 @@ A total of 83 subjects were at least 3 months post-symptom resolution and had co
 
 ## Primary objective: 
 
-Participation in sports was reported by 65.1% of subjects (n=54) in month one after symptom resolution, and by 61.5% (n=51) and 48.2% (n=40) of subjects in months two and three post-symptom resolution, although survey non-response rates also increased each month. Cumulatively, by month one 65.06% of subjects (n=54) had reported sport participation, by month two 79.52% (n=66) had reported sport participation at some point in the previous two months, and by month three 84.34% (n=70) had reported sport participation at some point in the previous three months. Sport participation rates and hours of participation are reported in Table 2. 
+The cumulative percentage of participants who, at some point during the previous one, two, or three months, reported participating in sport, was as follows: 65.06% (n=54) had reported sport participation by the end of month one, 79.52% (n = 66) by the end of month two, and 84.34% (n = 70) by the end of month three. Importantly, these percentages reflect cumulative reporting across available survey responses, not monthly participation rates, as not all participants completed every monthly survey. Cumulative sport participation rates and hours of participation are reported in Table 2. 
 
 **Table 2:** Sport participation rates and hours of participation, as self-reported on monthly surveys one, two, and three months after concussion symptom resolution. 
 |                                         |      | Missing   | Overall        |
 |-----------------------------------------|------|-----------|----------------|
 | n                                       |      |           | 83             |
-| sports_partic_yn_1, n (%)               | 0.0  |           | 21 (25.30)     |
+| Percent reporting sports participation during Month 1, n (%)  | 0.0  |           | 21 (25.30)     |
 |                                         | 1.0  |           | 54 (65.06)     |
-|                                         | None |           | 8 (9.64)       |
-| sports_partic_yn_2, n (%)               | 0.0  |           | 21 (25.30)     |
+|                                         | Missing |           | 8 (9.64)       |
+| Percent reporting sports participation during Month 2, n (%)               | 0.0  |           | 21 (25.30)     |
 |                                         | 1.0  |           | 51 (61.45)     |
-|                                         | None |           | 11 (13.25)     |
-| sports_partic_yn_3, n (%)               | 0.0  |           | 17 (20.48)     |
+|                                         | Missing |           | 11 (13.25)     |
+| Percent reporting sports participation during Month 3, n (%)               | 0.0  |           | 17 (20.48)     |
 |                                         | 1.0  |           | 40 (48.19)     |
-|                                         | None |           | 26 (31.33)     |
-| number_sports_1, n (%)                  | 1.0  |           | 47 (56.63)     |
+|                                         | Missing |           | 26 (31.33)     |
+| Percent reporting sports participation by the end of Month 1 (i.e., cumulative), n (%) | No | | 29 (34.94) |
+|                                         | Yes   |           | 54 (65.06)          |
+| Percent reporting sports participation by the end of Month 2 (i.e., cumulative), n (%) | No | | 17 (20.48) |
+|                                         | Yes   |           | 66 (79.52)         |
+| Percent reporting sports participation by the end of Month 3 (i.e., cumulative), n (%) | No | | 13 (15.66) |
+|                                         | Yes   |           | 70 (84.34)           |
+| Number of sports played Month 1, n (%)                  | 1.0  |           | 47 (56.63)     |
 |                                         | 2.0  |           | 4 (4.82)       |
 |                                         | 3.0  |           | 2 (2.41)       |
 |                                         | None |           | 30 (36.14)     |
-| number_sports_2, n (%)                  | 1.0  |           | 37 (44.58)     |
+| Number of sports played Month 2, n (%)                  | 1.0  |           | 37 (44.58)     |
 |                                         | 2.0  |           | 10 (12.05)     |
 |                                         | 3.0  |           | 1 (1.20)       |
 |                                         | 4.0  |           | 2 (2.41)       |
 |                                         | None |           | 33 (39.76)     |
-| number_sports_3, n (%)                  | 1.0  |           | 34 (40.96)     |
+| Number of sports played Month 3, n (%)                  | 1.0  |           | 34 (40.96)     |
 |                                         | 2.0  |           | 5 (6.02)       |
 |                                         | 3.0  |           | 1 (1.20)       |
 |                                         | None |           | 43 (51.81)     |
-| total_hrs_1, mean (SD)                  |      | 30        | 33.33 (46.65)  |
-| total_hrs_2, mean (SD)                  |      | 33        | 36.29 (34.58)  |
-| total_hrs_3, mean (SD)                  |      | 43        | 40.73 (39.16)  |
-| avg_hrs_total, mean (SD)                |      | 14        | 35.26 (31.53)  |
+| Hours of sport participation Month 1, mean (SD)                  |      | 30        | 33.33 (46.65)  |
+| Hours of sport participation Month 2, mean (SD)                  |      | 33        | 36.29 (34.58)  |
+| Hours of sport participation Month 3, mean (SD)                  |      | 43        | 40.73 (39.16)  |
+| Average hours of sport participation across all three months, mean (SD)                |      | 14        | 35.26 (31.53)  |
 
 
 The cumulative percentage of subjects participating in sports and hours of sport participation are shown in Figure 1. The average hours of sport participation across all three months is shown in Figure 2. 
