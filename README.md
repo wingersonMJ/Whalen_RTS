@@ -207,6 +207,3 @@ Last, we constructed a Cox Proportional Hazards model to evaluate how sport-rela
 
 
 Add DOI to M1 and look at clearance to rtp
-
-Add median and p-values to final box plots
-
