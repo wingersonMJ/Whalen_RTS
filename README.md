@@ -132,50 +132,27 @@ The cumulative percentage of subjects participating in sports and hours of sport
 
 ## Secondary objective: 
 
-At month one after symptom resolution, n=58 subjects were participating in sport, n=23 were not, and n=8 did not complete the survey. Mean and standard deviation or n (%) are provided in Table 3 below. 
+At month one after symptom resolution, n=54 subjects were participating in sport, n=21 were not, and n=8 did not complete the survey. Mean and standard deviation or n (%) are provided in Table 3 below. 
 
 **Table 3:** Comparing those participating and not participating in sports at one month after symptom resolution. P-values reflect Wilcoxon Rank Sum tests or Chi Squared tests for between-group differences. 
-|                                         |     | Missing   | Overall       |Not participating|Participating| P value|
-|-----------------------------------------|-----|-----------|---------------|---------------|---------------| -------|
-| n                                       |     |           | 81            | 23            | 58            |        |
-| doi_to_sxresolution, mean (SD)          |     | 5         | 35.17 (24.34) | 35.75 (27.11) | 34.96 (23.54) | 0.6245 |
-| age_visit, mean (SD)                    |     | 0         | 15.81 (1.51)  | 15.77 (1.55)  | 15.82 (1.50)  | 0.7693 |
-| pcsi_sxresolution, mean (SD)            |     | 0         | 4.73 (7.58)   | 6.52 (7.23)   | 4.03 (7.66)   | 0.0566 |
-| tsk_sxresolution, mean (SD)             |     | 0         | 31.91 (6.35)  | 33.30 (6.73)  | 31.36 (6.16)  | 0.4508 |
-| promis_physfunc_sxresolution, mean (SD) |     | 0         | 0.86 (2.08)   | 1.48 (3.40)   | 0.62 (1.20)   | 0.5540 |
-| iprrs_sxresolution, mean (SD)           |     | 8         | 51.89 (9.74)  | 49.29 (13.90) | 52.88 (7.56)  | 0.5991 |
-| sx_to_m1, mean (SD)                     |     | 15        | 48.20 (13.10) | 48.06 (12.00) | 48.25 (13.61) | 0.6194 |
-| fivep_sex, n (%)                        | 0.0 |           | 40 (49.38)    | 14 (60.87)    | 26 (44.83)    | 0.2911 |
-|                                         | 2.0 |           | 41 (50.62)    | 9 (39.13)     | 32 (55.17)    |        |
-| sports_yn, n (%)                        | 0.0 |           | 12 (14.81)    | 8 (34.78)     | 4 (6.90)      | 0.0045 |
-|                                         | 1.0 |           | 69 (85.19)    | 15 (65.22)    | 54 (93.10)    |        |
-| conc_hx_yn, n (%)                       | 0.0 |           | 39 (48.15)    | 14 (60.87)    | 25 (43.10)    | 0.2315 |
-|                                         | 1.0 |           | 42 (51.85)    | 9 (39.13)     | 33 (56.90)    |        |
-| mskinjury_hx_yn, n (%)                  | 0.0 |           | 29 (35.80)    | 11 (47.83)    | 18 (31.03)    | 0.2443 |
-|                                         | 1.0 |           | 52 (64.20)    | 12 (52.17)    | 40 (68.97)    |        |
-
-
-
-
-
-|                                         |    | Missing   | Overall       |Not participating|Participating|
-|-----------------------------------------|----|-----------|---------------|---------------|---------------|
-| n                                       |    |           | 75            | 21            | 54            |
-| doi_to_sxresolution, mean (SD)          |    | 4         | 35.58 (25.07) | 37.11 (28.23) | 35.06 (24.17) |
-| age_visit, mean (SD)                    |    | 0         | 15.78 (1.47)  | 15.79 (1.47)  | 15.78 (1.48)  |
-| pcsi_sxresolution, mean (SD)            |    | 0         | 5.06 (7.78)   | 7.14 (7.27)   | 4.25 (7.89)   |
-| tsk_sxresolution, mean (SD)             |    | 0         | 32.25 (6.24)  | 33.81 (6.77)  | 31.65 (5.97)  |
-| promis_physfunc_sxresolution, mean (SD) |    | 0         | 0.69 (1.38)   | 0.90 (1.76)   | 0.61 (1.22)   |
-| iprrs_sxresolution, mean (SD)           |    | 8         | 51.76 (10.09) | 48.91 (14.50) | 52.81 (7.84)  |
-| sx_to_m1, mean (SD)                     |    | 14        | 48.07 (13.14) | 47.12 (10.68) | 48.40 (14.01) |
-| fivep_sex, n (%)                        | 0  |           | 35 (46.67)    | 13 (61.90)    | 22 (40.74)    |
-|                                         | 2  |           | 40 (53.33)    | 8 (38.10)     | 32 (59.26)    |
-| sports_yn, n (%)                        | 0  |           | 12 (16.00)    | 8 (38.10)     | 4 (7.41)      |
-|                                         | 1  |           | 63 (84.00)    | 13 (61.90)    | 50 (92.59)    |
-| conc_hx_yn, n (%)                       | 0  |           | 36 (48.00)    | 12 (57.14)    | 24 (44.44)    |
-|                                         | 1  |           | 39 (52.00)    | 9 (42.86)     | 30 (55.56)    |
-| mskinjury_hx_yn, n (%)                  | 0  |           | 28 (37.33)    | 11 (52.38)    | 17 (31.48)    |
-|                                         | 1  |           | 47 (62.67)    | 10 (47.62)    | 37 (68.52)    |
+|                                         |    | Missing   | Overall       |Not participating|Participating| P Value |
+|-----------------------------------------|----|-----------|---------------|---------------|---------------|---------|
+| n                                       |    |           | 75            | 21            | 54            | 
+| doi_to_sxresolution, mean (SD)          |    | 4         | 35.58 (25.07) | 37.11 (28.23) | 35.06 (24.17) | 0.8171  |
+| age_visit, mean (SD)                    |    | 0         | 15.78 (1.47)  | 15.79 (1.47)  | 15.78 (1.48)  | 0.8967  |
+| pcsi_sxresolution, mean (SD)            |    | 0         | 5.06 (7.78)   | 7.14 (7.27)   | 4.25 (7.89)   | **0.0265**  |
+| tsk_sxresolution, mean (SD)             |    | 0         | 32.25 (6.24)  | 33.81 (6.77)  | 31.65 (5.97)  | 0.3636  |
+| promis_physfunc_sxresolution, mean (SD) |    | 0         | 0.69 (1.38)   | 0.90 (1.76)   | 0.61 (1.22)   | 0.6243  |
+| iprrs_sxresolution, mean (SD)           |    | 8         | 51.76 (10.09) | 48.91 (14.50) | 52.81 (7.84)  | 0.5244  |
+| sx_to_m1, mean (SD)                     |    | 14        | 48.07 (13.14) | 47.12 (10.68) | 48.40 (14.01) | 0.5885  |
+| fivep_sex, n (%)                        | 0  |           | 35 (46.67)    | 13 (61.90)    | 22 (40.74)    | 0.1640  |
+|                                         | 2  |           | 40 (53.33)    | 8 (38.10)     | 32 (59.26)    |         |
+| sports_yn, n (%)                        | 0  |           | 12 (16.00)    | 8 (38.10)     | 4 (7.41)      | **0.0037**  |
+|                                         | 1  |           | 63 (84.00)    | 13 (61.90)    | 50 (92.59)    |         |
+| conc_hx_yn, n (%)                       | 0  |           | 36 (48.00)    | 12 (57.14)    | 24 (44.44)    | 0.4648  |
+|                                         | 1  |           | 39 (52.00)    | 9 (42.86)     | 30 (55.56)    |         |
+| mskinjury_hx_yn, n (%)                  | 0  |           | 28 (37.33)    | 11 (52.38)    | 17 (31.48)    | 0.1573  |
+|                                         | 1  |           | 47 (62.67)    | 10 (47.62)    | 37 (68.52)    |         |
 
 
 **Figure 3:** Box plots showing the median and IQR between those who are and are not participating in sports at month one after symptom resolution. 
@@ -186,24 +163,24 @@ At month one after symptom resolution, n=58 subjects were participating in sport
 At three months after symptom resolution, n=74 subjects had participated in sport (cumulative), n=15 had not, and n=0 failed to complete at least one survey in the three months. Mean and standard deviation or n (%) are provided in Table 4 below. 
 
 **Table 4:** Comparing those participating and not participating in sports within three months of symptom resolution. P-values reflect Wilcoxon Rank Sum tests or Chi Squared tests for between-group differences. 
-|                                         |     | Missing   | Overall       | 0             | 1             | p-value |
-|-----------------------------------------|-----|-----------|---------------|---------------|---------------| ------- |
-| n                                       |     |           | 89            | 15            | 74            | 
-| doi_to_sxresolution, mean (SD)          |     | 5         | 34.07 (23.73) | 41.38 (31.37) | 32.73 (22.08) | 0.6517  |
-| age_visit, mean (SD)                    |     | 0         | 15.75 (1.50)  | 16.04 (1.70)  | 15.69 (1.47)  | 0.4865  | 
-| pcsi_sxresolution, mean (SD)            |     | 0         | 4.48 (7.36)   | 5.47 (7.45)   | 4.28 (7.37)   | 0.4628  |
-| tsk_sxresolution, mean (SD)             |     | 0         | 31.88 (6.17)  | 32.80 (7.28)  | 31.69 (5.96)  | 0.9956  |
-| promis_physfunc_sxresolution, mean (SD) |     | 0         | 0.92 (2.15)   | 1.93 (3.99)   | 0.72 (1.50)   | 0.2409  |
-| iprrs_sxresolution, mean (SD)           |     | 8         | 52.09 (9.47)  | 47.76 (15.23) | 52.92 (7.82)  | 0.3958  | 
-| sx_to_m1, mean (SD)                     |     | 23        | 48.20 (13.10) | 48.92 (14.03) | 48.04 (13.02) | 0.5776  | 
-| fivep_sex, n (%)                        | 0.0 |           | 45 (50.56)    | 9 (60.00)     | 36 (48.65)    | 0.6040  | 
-|                                         | 2.0 |           | 44 (49.44)    | 6 (40.00)     | 38 (51.35)    |         | 
-| sports_yn, n (%)                        | 0.0 |           | 12 (13.48)    | 5 (33.33)     | 7 (9.46)      | 0.0400  | 
-|                                         | 1.0 |           | 77 (86.52)    | 10 (66.67)    | 67 (90.54)    |         |
-| conc_hx_yn, n (%)                       | 0.0 |           | 44 (49.44)    | 9 (60.00)     | 35 (47.30)    | 0.5392  |
-|                                         | 1.0 |           | 45 (50.56)    | 6 (40.00)     | 39 (52.70)    |         |
-| mskinjury_hx_yn, n (%)                  | 0.0 |           | 32 (35.96)    | 6 (40.00)     | 26 (35.14)    | 0.9498  |
-|                                         | 1.0 |           | 57 (64.04)    | 9 (60.00)     | 48 (64.86)    |         |
+|                                         |    | Missing   | Overall       | 0             | 1             | P value |
+|-----------------------------------------|----|-----------|---------------|---------------|---------------|---------|
+| n                                       |    |           | 83            | 13            | 70            |         |
+| doi_to_sxresolution, mean (SD)          |    | 4         | 34.37 (24.38) | 44.64 (33.12) | 32.71 (22.54) | 0.4445  |
+| age_visit, mean (SD)                    |    | 0         | 15.72 (1.47)  | 16.12 (1.58)  | 15.65 (1.44)  | 0.3571  |
+| pcsi_sxresolution, mean (SD)            |    | 0         | 4.75 (7.54)   | 6.31 (7.69)   | 4.46 (7.53)   | 0.2389  |
+| tsk_sxresolution, mean (SD)             |    | 0         | 32.18 (6.06)  | 33.54 (7.48)  | 31.93 (5.78)  | 0.7780  |
+| promis_physfunc_sxresolution, mean (SD) |    | 0         | 0.77 (1.57)   | 1.08 (1.80)   | 0.71 (1.53)   | 0.3102  |
+| iprrs_sxresolution, mean (SD)           |    | 8         | 51.99 (9.77)  | 46.87 (16.29) | 52.87 (8.04)  | 0.3570  |
+| sx_to_m1, mean (SD)                     |    | 22        | 48.07 (13.14) | 47.60 (12.69) | 48.16 (13.35) | 0.5266  |
+| fivep_sex, n (%)                        | 0  |           | 40 (48.19)    | 8 (61.54)     | 32 (45.71)    | 0.4554  |
+|                                         | 2  |           | 43 (51.81)    | 5 (38.46)     | 38 (54.29)    |         |
+| sports_yn, n (%)                        | 0  |           | 12 (14.46)    | 5 (38.46)     | 7 (10.00)     | **0.0244**  |
+|                                         | 1  |           | 71 (85.54)    | 8 (61.54)     | 63 (90.00)    |         |
+| conc_hx_yn, n (%)                       | 0  |           | 41 (49.40)    | 7 (53.85)     | 34 (48.57)    | 0.9623  |
+|                                         | 1  |           | 42 (50.60)    | 6 (46.15)     | 36 (51.43)    |         |
+| mskinjury_hx_yn, n (%)                  | 0  |           | 31 (37.35)    | 6 (46.15)     | 25 (35.71)    | 0.6874  |
+|                                         | 1  |           | 52 (62.65)    | 7 (53.85)     | 45 (64.29)    |         |
 
 
 **Figure 4:** Box plots showing the median and IQR between those who are and are not participating in sports at month one after symptom resolution. 
@@ -211,7 +188,7 @@ At three months after symptom resolution, n=74 subjects had participated in spor
 
 ---
 
-Last, we constructed a Cox Proportional Hazards model to evaluate how sport-related injury mechanism and PCSI score at symptom resolution were associated with the hazard of sport participation in the three months after concussion symptoms had resolved. We found that the hazard of sport participation was significantly higher among subjects with a sport-related mechanism of injury (HR: 2.37; 95% CI: 1.07, 5.24; p-value: 0.03). Those who sustained their injury in sports had 2.37 times the likelihood of earlier participation in sports during the three months following symptom resolution, compared to those who did not sustain injury during sports. PCSI score was not significantly associated with hazard of sport participation (HR: 0.99; 95% CI: 0.96, 1.03; p-value: 0.76). 
+Last, we constructed a Cox Proportional Hazards model to evaluate how sport-related injury mechanism and PCSI score at symptom resolution were associated with the hazard of sport participation in the three months after concussion symptoms had resolved. We found that the hazard of sport participation was significantly higher among subjects with a sport-related mechanism of injury (HR: 2.46; 95% CI: 1.11, 5.45; p-value: 0.03). Those who sustained their injury in sports had two and a half times the likelihood of earlier participation in sports during the three months following symptom resolution, compared to those who did not sustain injury during sports. PCSI score was not significantly associated with hazard of sport participation (HR: 0.99; 95% CI: 0.95, 1.03; p-value: 0.61). 
 
 **Figure 5:** Kaplan Meier curve showing the probability of returing to sport participation by month after concussion symptom resolution. 
 <img src="figs/Figure5.png" alt="KM curve" width="600">  
@@ -219,7 +196,13 @@ Last, we constructed a Cox Proportional Hazards model to evaluate how sport-rela
 
 ---
 
+## Extra Cox PH model:
 
+| Variable | Hazard Ratio | Lower 95 | Upper 95 | P value |
+|----------|--------------|----------|----------|---------|
+| TSK sxres| 0.99         | 0.95     | 1.03     | 0.61    |
+| PROMIS Phys Func | 0.95 | 0.79     | 1.15     | 0.62    |
+| IPRRS sxres | 1.01      | 0.98     | 1.05     | 0.58    | 
 
 
 
@@ -227,4 +210,3 @@ Add DOI to M1 and look at clearance to rtp
 
 Add median and p-values to final box plots
 
-try Cox PH for target vars
