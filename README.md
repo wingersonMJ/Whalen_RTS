@@ -1,4 +1,4 @@
-# Predicting return to sport after concussion symptom resolution: fear of movement, confidence, and physical function/mobility. 
+# Predictors of sport participation after concussion symptom resolution 
 Wingerson, MJ  
 mat.wingerson@gmail.com
 
@@ -12,13 +12,12 @@ Transparency of source code and results for a manuscript submitted to [journal t
 # Overview
 
 ## Background:
-Complete rehabilitation and recovery from concussion in an athlete population includes a successful reintegration to sport participation. The proportion of patients who participate in sports in the months that follow symptom resolution is unknown, as are the injury, recovery, or demographic characteristics that differentiate patients who do and do not return to sport participation soon after recovery. An improved understanding of such factors may inform clinicians in early identification of patients at risk of delayed sport participation and may reveal strategies for more successful sport reintegration in the future. 
-
+Complete rehabilitation and recovery from concussion in an athlete population includes a successful reintegration to sport participation. The proportion of patients who participate in sports in the months that follow symptom resolution is unknown, as are the injury, recovery, or demographic characteristics that differentiate patients who do and do not return to sport participation soon after recovery. An improved understanding of such factors may inform clinicians of early identification for patients at risk of delayed sport participation and may reveal strategies for more successful sport reintegration in the future. 
 
 ## Objective:
-Our **primary objective** was to describe sport participation among a sample of adolescents who were followed longitudinally from concussion to 3-months post-symptom resolution. 
+Our **primary objective** was to describe sport participation among a sample of adolescents who were followed longitudinally from concussion to 3 months post-symptom resolution. 
 
-Our **secondary objective** was to investigate clinical, injury, and demographic characteristics that differed among participants who did and did not report sport participation in the 1 to 3 months after injury. 
+Our **secondary objective** was to investigate clinical, injury, and demographic characteristics that differed among participants who reported sport participation in the 1 to 3 months after injury and those who didn't. 
 
 ---
 
@@ -36,11 +35,11 @@ Our **secondary objective** was to investigate clinical, injury, and demographic
 
 @Meghan: I will write this and add it to your draft manuscript, but here is an overview:
 
-Given that our primary outcome was sport participation in the months after symptom resolution, self-reported by participants on the monthly surveys, we only include participants who completed at least one of the three monthly surveys. We used mean and standard deviation (M, sd) or group size and percent in group (n, %) to describe numeric and categorical variables, respectively. Non-plausible values for self-report variables were treated as missing; for example, two participants self-reported >160 hours per week of sport participation, despite a week only consisting of 168 hours in total. 
+Our primary outcome was sport participation in the months after symptom resolution, self-reported by participants on the monthly surveys. We only included participants in the analysis if they completed at least one of the three monthly surveys. Mean and standard deviation (M, sd) or group size and percent in group (n, %) are used to describe numeric and categorical variables, respectively.
 
-Our primary aim was to describe sport participation in the 3 months that follow concussion symptom resolution. The total number of hours - practices and games combined - that subjects reported participating in sport is reported as mean and standard deviation. Sport participation hours were also averaged across the 3 months within each subject and reported as mean and sd. We also report the number of sports that participants reported playing. 
+Our primary aim was to describe sport participation in the 3 months that follow concussion symptom resolution. The total number of hours of sport participation - practices and games combined - as reported by participants each month is described as mean and standard deviation. Sport participation hours were also averaged across the 3 months within each subject and reported as mean and SD. We also report the number of sports that participants played. 
 
-Our secondary objective was to  investigate clinical, injury, and demographic characteristics that differed among participants who did and did not report sport participation in the 1 to 3 months after injury. We used a Shapiro-Wilk test to determine data normality. We first compared subjects who did and did not report sport participation at the 1-month post-symptom resolution timepoint. Wilcoxon Rank Sum tests compared numeric variables between these two groups. Chi-squared tests compared categorical variables. Next, we compared subjects who did and did not report sport participation at any point in the 3-month post-symptom resolution monitoring period. The same statistical tests were used for between-group comparisons. 
+Our secondary objective was to  investigate clinical, injury, and demographic characteristics that differed among study subjects participating in sports and those not participating in sports over the 1 to 3 months post-symptom resolution. We used a Shapiro-Wilk test to determine data normality. We first compared subjects who did and did not report sport participation in the 1-month post-symptom resolution. Wilcoxon Rank Sum tests compared numeric variables between these two groups. Chi-squared tests compared categorical variables. Next, we compared subjects who did and did not report sport participation at any point in the 3-month post-symptom resolution monitoring period (cumulative - yes vs no for participating in sports at some point in those three months). The same statistical tests were used for between-group comparisons. 
 
 Last, we constructed a Cox Proportional Hazards model to evaluate the hazard of sport participation during the 3 months after symptom resolution. The predictor variables for this model were any demographic, clinical, or injury characteristics that significantly differed between subjects participating in sports at 1-month and those who were not. 
 
@@ -55,11 +54,11 @@ A total of 83 subjects were at least 3 months post-symptom resolution and had co
 |                                         |      | Missing   | Overall        |
 |-----------------------------------------|------|-----------|----------------|
 | n                                       |      |           | 83             |
-| doi_to_v1, mean (SD)                    |      | 0         | 13.07 (4.62)   |
-| doi_to_sxresolution, mean (SD)          |      | 4         | 34.37 (24.38)  |
-| fivep_sex, n (%)                        | 0    |           | 40 (48.19)     |
-|                                         | 2    |           | 43 (51.81)     |
-| age_visit, mean (SD)                    |      | 0         | 15.72 (1.47)   |
+| Time injury to study enrollment (days), mean (SD)|| 0      | 13.07 (4.62)   |
+| Time injury to sx resolution (days), mean (SD)|| 4         | 34.37 (24.38)  |
+| Biological Sex, n (%)                   | M    |           | 40 (48.19)     |
+|                                         | F    |           | 43 (51.81)     |
+| Age (years), mean (SD)                  |      | 0         | 15.72 (1.47)   |
 | race___0, n (%)                         | 0    |           | 80 (96.39)     |
 |                                         | 1    |           | 3 (3.61)       |
 | race___1, n (%)                         | 0    |           | 81 (97.59)     |
@@ -71,19 +70,20 @@ A total of 83 subjects were at least 3 months post-symptom resolution and had co
 |                                         | 1    |           | 72 (86.75)     |
 | race___6, n (%)                         | 0    |           | 78 (93.98)     |
 |                                         | 1    |           | 5 (6.02)       |
-| ethnicity, n (%)                        | 0.0  |           | 14 (16.87)     |
-|                                         | 1.0  |           | 63 (75.90)     |
-|                                         | 2.0  |           | 5 (6.02)       |
-|                                         | None |           | 1 (1.20)       |
-| pcsi_initial, mean (SD)                 |      | 0         | 37.94 (21.26)  |
-| sx_to_m1, mean (SD)                     |      | 22        | 48.07 (13.14)  |
-| sx_to_m2, mean (SD)                     |      | 20        | 76.37 (10.32)  |
-| sx_to_m3, mean (SD)                     |      | 33        | 108.04 (13.06) |
-| doi_to_m1, mean (SD)                    |      | 18        | 89.23 (28.75)  |
-| doi_to_rtp, mean (SD)                   |      | 7         | 45.78 (29.09)  |
-| pct cleared to rtp by month 1, n (%)    | 1.0  |           | 71 (85.54)     | 
-|                                         | 0.0  |           | 3 (3.61)       |
-|                                         | None |           | 9 (10.84)      |
+| ethnicity, n (%)                        | Hispanic/Latino| | 14 (16.87)     |
+|                                         |Not Hispanic/Latino|| 63 (75.90)     |
+|                                         | Unreported  |    | 5 (6.02)       |
+|                                         | Missing |        | 1 (1.20)       |
+| PCSI Score (initial post-inj), mean (SD)|      | 0         | 37.94 (21.26)  |
+| Time sx resolution to month 1 survey (days), mean (SD)|| 22| 48.07 (13.14)  |
+| Time sx resolution to month 2 survey (days), mean (SD)|| 20| 76.37 (10.32)  |
+| Time sx resolution to month 3 survey (days), mean (SD)|| 33| 108.04 (13.06) |
+| Time injury to month 1 survey (days), mean (SD)|| 18       | 89.23 (28.75)  |
+| Time injury to Return to Play (days), mean (SD)|| 7        | 45.78 (29.09)  |
+| Percent cleared to RTP by month 1 survey, n (%)| Yes|      | 71 (85.54)     | 
+|                                         | No  |            | 3 (3.61)       |
+|       | Missing either survey date or RTP date |           | 9 (10.84)      |
+
 **Time to symptom resolution range: 10-138 days*
 
 ## Primary objective: 
