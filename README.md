@@ -34,90 +34,88 @@ Our **secondary objective** was to investigate clinical, injury, and demographic
 
 ## Statistical methods:
 
-I will write this and add it to your draft manuscript, but here is an overview:
+@Meghan: I will write this and add it to your draft manuscript, but here is an overview:
 
 Given that our primary outcome was sport participation in the months after symptom resolution, self-reported by participants on the monthly surveys, we only include participants who completed at least one of the three monthly surveys. We used mean and standard deviation (M, sd) or group size and percent in group (n, %) to describe numeric and categorical variables, respectively. Non-plausible values for self-report variables were treated as missing; for example, two participants self-reported >160 hours per week of sport participation, despite a week only consisting of 168 hours in total. 
 
-Our primary aim was to describe sport participation in the 3-months that follow concussion symptom resolution. The total number of hours - practices and games combined - that subjects reported participating in sport are reported as mean and standard deviation. Sport participation hours were also averaged across the 3-month period within each subject and reported as mean and sd. We also report the number of sports that participants reported playing as 1 or >=2. 
+Our primary aim was to describe sport participation in the 3 months that follow concussion symptom resolution. The total number of hours - practices and games combined - that subjects reported participating in sport is reported as mean and standard deviation. Sport participation hours were also averaged across the 3 months within each subject and reported as mean and sd. We also report the number of sports that participants reported playing. 
 
-Our secondary objective was to  investigate clinical, injury, and demographic characteristics that differed among participants who did and did not report sport participation in the 1 to 3 months after injury. We used a Shapiro-Wilk test to determine data normality. We first compared subjects who did and did not report sport participation at the 1-month post-symptom resolution timepoint. Wilcoxon Rank Sum tests compared numeric variables between these two groups. Chi-squared tests compared categorical variables. Next, we compared subject who did and did not report sport participation at any point in the 3-month post-symptom resolution monitoring period. The same statistical tests were used for between-group comparisons. 
+Our secondary objective was to  investigate clinical, injury, and demographic characteristics that differed among participants who did and did not report sport participation in the 1 to 3 months after injury. We used a Shapiro-Wilk test to determine data normality. We first compared subjects who did and did not report sport participation at the 1-month post-symptom resolution timepoint. Wilcoxon Rank Sum tests compared numeric variables between these two groups. Chi-squared tests compared categorical variables. Next, we compared subjects who did and did not report sport participation at any point in the 3-month post-symptom resolution monitoring period. The same statistical tests were used for between-group comparisons. 
 
-Last, we constructed a Cox Proportional Hazards model to evaluate the hazard of sport participation during the 3-months after symptom resolution. The predictor variables for this model were any demographic, clinical, or injury characteristics that significantly differed between subjects participating in sports at 1-month and those who were not. 
+Last, we constructed a Cox Proportional Hazards model to evaluate the hazard of sport participation during the 3 months after symptom resolution. The predictor variables for this model were any demographic, clinical, or injury characteristics that significantly differed between subjects participating in sports at 1-month and those who were not. 
 
 ---
 
 # Results
 
 ## Sample demographics and such:
-A total of 89 subjects were at least 3 months post-symptom resolution and had completed at least one monthly survey in that time. The average time to study enrollment after concussion was 13.1 (4.5) days. The average time to symptom resolution was 34.1 (23.7) days, with a range of 10 to 138 days. The mean sample age was 15.8 (1.5) years and 49% (n=44) were female biological sex. Remaining demographics are reported in Table 1. 
+A total of 83 subjects were at least 3 months post-symptom resolution and had completed at least one monthly survey in that time. 
 
 **Table 1:** @Meghan, here is a basic table 1 demographics that you can include in your paper. 
 |                                         |      | Missing   | Overall        |
 |-----------------------------------------|------|-----------|----------------|
-| n                                       |      |           | 89             |
-| doi_to_v1, mean (SD)                    |      | 0         | 13.13 (4.52)   |
-| doi_to_sxresolution, mean (SD)          |      | 5         | 34.07 (23.73)  |
-| fivep_sex, n (%)                        | 0.0  |           | 45 (50.56)     |
-|                                         | 2.0  |           | 44 (49.44)     |
-| age_visit, mean (SD)                    |      | 0         | 15.75 (1.50)   |
-| race___0, n (%)                         | 0    |           | 85 (95.51)     |
-|                                         | 1    |           | 4 (4.49)       |
-| race___1, n (%)                         | 0    |           | 87 (97.75)     |
-|                                         | 1    |           | 2 (2.25)       |
-| race___2, n (%)                         | 0    |           | 80 (89.89)     |
-|                                         | 1    |           | 9 (10.11)      |
-| race___3, n (%)                         | 0    |           | 89 (100.00)    |
-| race___4, n (%)                         | 0    |           | 12 (13.48)     |
-|                                         | 1    |           | 77 (86.52)     |
-| race___6, n (%)                         | 0    |           | 84 (94.38)     |
-|                                         | 1    |           | 5 (5.62)       |
-| ethnicity, n (%)                        | 0.0  |           | 15 (16.85)     |
-|                                         | 1.0  |           | 68 (76.40)     |
-|                                         | 2.0  |           | 5 (5.62)       |
-|                                         | None |           | 1 (1.12)       |
-| pcsi_initial, mean (SD)                 |      | 0         | 37.45 (21.26)  |
-| sx_to_m1, mean (SD)                     |      | 23        | 48.20 (13.10)  |
-| sx_to_m2, mean (SD)                     |      | 23        | 76.23 (10.15)  |
-| sx_to_m3, mean (SD)                     |      | 39        | 108.04 (13.06) |
-
+| n                                       |      |           | 83             |
+| doi_to_v1, mean (SD)                    |      | 0         | 13.07 (4.62)   |
+| doi_to_sxresolution, mean (SD)          |      | 4         | 34.37 (24.38)  |
+| fivep_sex, n (%)                        | 0    |           | 40 (48.19)     |
+|                                         | 2    |           | 43 (51.81)     |
+| age_visit, mean (SD)                    |      | 0         | 15.72 (1.47)   |
+| race___0, n (%)                         | 0    |           | 80 (96.39)     |
+|                                         | 1    |           | 3 (3.61)       |
+| race___1, n (%)                         | 0    |           | 81 (97.59)     |
+|                                         | 1    |           | 2 (2.41)       |
+| race___2, n (%)                         | 0    |           | 74 (89.16)     |
+|                                         | 1    |           | 9 (10.84)      |
+| race___3, n (%)                         | 0    |           | 83 (100.00)    |
+| race___4, n (%)                         | 0    |           | 11 (13.25)     |
+|                                         | 1    |           | 72 (86.75)     |
+| race___6, n (%)                         | 0    |           | 78 (93.98)     |
+|                                         | 1    |           | 5 (6.02)       |
+| ethnicity, n (%)                        | 0.0  |           | 14 (16.87)     |
+|                                         | 1.0  |           | 63 (75.90)     |
+|                                         | 2.0  |           | 5 (6.02)       |
+|                                         | None |           | 1 (1.20)       |
+| pcsi_initial, mean (SD)                 |      | 0         | 37.94 (21.26)  |
+| sx_to_m1, mean (SD)                     |      | 22        | 48.07 (13.14)  |
+| sx_to_m2, mean (SD)                     |      | 20        | 76.37 (10.32)  |
+| sx_to_m3, mean (SD)                     |      | 33        | 108.04 (13.06) |
+**Time to symptom resolution range: 10-138 days*
 
 ## Primary objective: 
 
-Participation in sports was reported by 65.2% of subjects (n=58) in month one after symptom resolution, and by 59.6% (n=53) and 44.9% (of subjects in months two and three post-symptom resolution, although survey non-response rates also increased each month. Cumulatively, by month one 65.17% of subjects (n=58) had reported sport participation, by month two 78.65% (n=70) had reported sport participation at some point in the previous two months, and by month three 83.15% (n=74) had reported sport participation at some point in the previous three months. Sport participation rates and hours of participation are reported in Table 2. 
+Participation in sports was reported by 65.1% of subjects (n=54) in month one after symptom resolution, and by 61.5% (n=51) and 48.2% (n=40) of subjects in months two and three post-symptom resolution, although survey non-response rates also increased each month. Cumulatively, by month one 65.06% of subjects (n=54) had reported sport participation, by month two 79.52% (n=66) had reported sport participation at some point in the previous two months, and by month three 84.34% (n=70) had reported sport participation at some point in the previous three months. Sport participation rates and hours of participation are reported in Table 2. 
 
 **Table 2:** Sport participation rates and hours of participation, as self-reported on monthly surveys one, two, and three months after concussion symptom resolution. 
 |                                         |      | Missing   | Overall        |
 |-----------------------------------------|------|-----------|----------------|
-| n                                       |      |           | 89             |
-| sports_partic_yn_1, n (%)               | 0.0  |           | 23 (25.84)     |
-|                                         | 1.0  |           | 58 (65.17)     |
-|                                         | None |           | 8 (8.99)       |
-| sports_partic_yn_2, n (%)               | 0.0  |           | 22 (24.72)     |
-|                                         | 1.0  |           | 53 (59.55)     |
-|                                         | None |           | 14 (15.73)     |
-| sports_partic_yn_3, n (%)               | 0.0  |           | 17 (19.10)     |
-|                                         | 1.0  |           | 40 (44.94)     |
-|                                         | None |           | 32 (35.96)     |
-| number_sports_1, mean (SD)              |      | 32        | 1.16 (0.45)    |
-| number_sports_2, mean (SD)              |      | 37        | 1.35 (0.71)    |
-| number_sports_3, mean (SD)              |      | 49        | 1.18 (0.45)    |
-| number_sports_1, n (%)                  | 1.0  |           | 50 (56.18)     |
-|                                         | 2.0  |           | 5 (5.62)       |
-|                                         | 3.0  |           | 2 (2.25)       |
-|                                         | None |           | 32 (35.96)     |
-| number_sports_2, n (%)                  | 1.0  |           | 39 (43.82)     |
-|                                         | 2.0  |           | 10 (11.24)     |
-|                                         | 3.0  |           | 1 (1.12)       |
-|                                         | 4.0  |           | 2 (2.25)       |
-|                                         | None |           | 37 (41.57)     |
-| number_sports_3, n (%)                  | 1.0  |           | 34 (38.20)     |
-|                                         | 2.0  |           | 5 (5.62)       |
-|                                         | 3.0  |           | 1 (1.12)       |
-|                                         | None |           | 49 (55.06)     |
-| total_hrs_1, mean (SD)                  |      | 34        | 25.32 (18.58)  |
-| total_hrs_2, mean (SD)                  |      | 38        | 32.49 (21.59)  |
-| total_hrs_3, mean (SD)                  |      | 51        | 33.56 (23.47)  |
-| avg_hrs_total, mean (SD)                |      | 18        | 31.13 (21.66)  |
+| n                                       |      |           | 83             |
+| sports_partic_yn_1, n (%)               | 0.0  |           | 21 (25.30)     |
+|                                         | 1.0  |           | 54 (65.06)     |
+|                                         | None |           | 8 (9.64)       |
+| sports_partic_yn_2, n (%)               | 0.0  |           | 21 (25.30)     |
+|                                         | 1.0  |           | 51 (61.45)     |
+|                                         | None |           | 11 (13.25)     |
+| sports_partic_yn_3, n (%)               | 0.0  |           | 17 (20.48)     |
+|                                         | 1.0  |           | 40 (48.19)     |
+|                                         | None |           | 26 (31.33)     |
+| number_sports_1, n (%)                  | 1.0  |           | 47 (56.63)     |
+|                                         | 2.0  |           | 4 (4.82)       |
+|                                         | 3.0  |           | 2 (2.41)       |
+|                                         | None |           | 30 (36.14)     |
+| number_sports_2, n (%)                  | 1.0  |           | 37 (44.58)     |
+|                                         | 2.0  |           | 10 (12.05)     |
+|                                         | 3.0  |           | 1 (1.20)       |
+|                                         | 4.0  |           | 2 (2.41)       |
+|                                         | None |           | 33 (39.76)     |
+| number_sports_3, n (%)                  | 1.0  |           | 34 (40.96)     |
+|                                         | 2.0  |           | 5 (6.02)       |
+|                                         | 3.0  |           | 1 (1.20)       |
+|                                         | None |           | 43 (51.81)     |
+| total_hrs_1, mean (SD)                  |      | 30        | 33.33 (46.65)  |
+| total_hrs_2, mean (SD)                  |      | 33        | 36.29 (34.58)  |
+| total_hrs_3, mean (SD)                  |      | 43        | 40.73 (39.16)  |
+| avg_hrs_total, mean (SD)                |      | 14        | 35.26 (31.53)  |
+
 
 The cumulative percentage of subjects participating in sports and hours of sport participation are shown in Figure 1. Average hours of sport participation across all three months is shown in Figure 2. 
 
@@ -155,6 +153,29 @@ At month one after symptom resolution, n=58 subjects were participating in sport
 |                                         | 1.0 |           | 42 (51.85)    | 9 (39.13)     | 33 (56.90)    |        |
 | mskinjury_hx_yn, n (%)                  | 0.0 |           | 29 (35.80)    | 11 (47.83)    | 18 (31.03)    | 0.2443 |
 |                                         | 1.0 |           | 52 (64.20)    | 12 (52.17)    | 40 (68.97)    |        |
+
+
+
+
+
+|                                         |    | Missing   | Overall       |Not participating|Participating|
+|-----------------------------------------|----|-----------|---------------|---------------|---------------|
+| n                                       |    |           | 75            | 21            | 54            |
+| doi_to_sxresolution, mean (SD)          |    | 4         | 35.58 (25.07) | 37.11 (28.23) | 35.06 (24.17) |
+| age_visit, mean (SD)                    |    | 0         | 15.78 (1.47)  | 15.79 (1.47)  | 15.78 (1.48)  |
+| pcsi_sxresolution, mean (SD)            |    | 0         | 5.06 (7.78)   | 7.14 (7.27)   | 4.25 (7.89)   |
+| tsk_sxresolution, mean (SD)             |    | 0         | 32.25 (6.24)  | 33.81 (6.77)  | 31.65 (5.97)  |
+| promis_physfunc_sxresolution, mean (SD) |    | 0         | 0.69 (1.38)   | 0.90 (1.76)   | 0.61 (1.22)   |
+| iprrs_sxresolution, mean (SD)           |    | 8         | 51.76 (10.09) | 48.91 (14.50) | 52.81 (7.84)  |
+| sx_to_m1, mean (SD)                     |    | 14        | 48.07 (13.14) | 47.12 (10.68) | 48.40 (14.01) |
+| fivep_sex, n (%)                        | 0  |           | 35 (46.67)    | 13 (61.90)    | 22 (40.74)    |
+|                                         | 2  |           | 40 (53.33)    | 8 (38.10)     | 32 (59.26)    |
+| sports_yn, n (%)                        | 0  |           | 12 (16.00)    | 8 (38.10)     | 4 (7.41)      |
+|                                         | 1  |           | 63 (84.00)    | 13 (61.90)    | 50 (92.59)    |
+| conc_hx_yn, n (%)                       | 0  |           | 36 (48.00)    | 12 (57.14)    | 24 (44.44)    |
+|                                         | 1  |           | 39 (52.00)    | 9 (42.86)     | 30 (55.56)    |
+| mskinjury_hx_yn, n (%)                  | 0  |           | 28 (37.33)    | 11 (52.38)    | 17 (31.48)    |
+|                                         | 1  |           | 47 (62.67)    | 10 (47.62)    | 37 (68.52)    |
 
 
 **Figure 3:** Box plots showing the median and IQR between those who are and are not participating in sports at month one after symptom resolution. 
@@ -200,10 +221,10 @@ Last, we constructed a Cox Proportional Hazards model to evaluate how sport-rela
 
 
 
-Try with and without 160hr people included
 
-Try with and without those <3-months post-sxres ('3_mo_sxres')
 
 Add DOI to M1 and look at clearance to rtp
 
 Add median and p-values to final box plots
+
+try Cox PH for target vars
