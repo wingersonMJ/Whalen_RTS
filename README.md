@@ -128,9 +128,9 @@ The cumulative percentage of participants who, at some point during the previous
 | Average hours of sport participation across all three months, mean (SD)                |      | 14        | 35.26 (31.53)  |
 
 
-The cumulative percentage of subjects participating in sports and hours of sport participation are shown in Figure 1. The average hours of sport participation across all three months is shown in Figure 2. 
+The cumulative percentage of subjects participating in sports and hours of sport participation are shown in Figure 1. The average hours of sport participation across all three months are shown in Figure 2. 
 
-**Figure 1:** Cumulative percent of subjects who have reported participating in sports at some point by months one, two, and three (grey dashed line). The average practice and game hours participating in sport for months one, two, and three are also shown (black solid line). Note the different y-axes on the left and right sides of the plot, corresponding in color to their line plot. 
+**Figure 1:** Cumulative percent of subjects who have reported participating in sports by months one, two, and three (grey dashed line). The average practice and game hours participating in sport for months one, two, and three are also shown (black solid line). Note the different y-axes on the left and right sides of the plot, corresponding in color to their line plot. 
 
 <img src="figs/Figure1.png" alt="cumulative percent plot" width="600">  
 
@@ -143,7 +143,9 @@ The cumulative percentage of subjects participating in sports and hours of sport
 
 ## Secondary objective: 
 
-At month one after symptom resolution, n=54 subjects were participating in sport, n=21 were not, and n=8 did not complete the survey. Mean and standard deviation or n (%) are provided in Table 3 below. 
+## Part 1: One month after sx res...
+
+At month one after symptom resolution, n=54 subjects were participating in sport, n=21 were not, and n=8 did not complete the survey. We compared subjects who were participating in sports and those who were not at the end of month one. Mean and standard deviation or n (%) between groups are provided in Table 3 below. 
 
 **Table 3:** Comparing those participating and not participating in sports at one month after symptom resolution. P-values reflect Wilcoxon Rank Sum tests or Chi Squared tests for between-group differences. 
 |                                         |    | Missing   | Overall       |Not participating|Participating| P Value |
@@ -156,8 +158,8 @@ At month one after symptom resolution, n=54 subjects were participating in sport
 | promis_physfunc_sxresolution, mean (SD) |    | 0         | 0.69 (1.38)   | 0.90 (1.76)   | 0.61 (1.22)   | 0.6243  |
 | iprrs_sxresolution, mean (SD)           |    | 8         | 51.76 (10.09) | 48.91 (14.50) | 52.81 (7.84)  | 0.5244  |
 | sx_to_m1, mean (SD)                     |    | 14        | 48.07 (13.14) | 47.12 (10.68) | 48.40 (14.01) | 0.5885  |
-| fivep_sex, n (%)                        | 0  |           | 35 (46.67)    | 13 (61.90)    | 22 (40.74)    | 0.1640  |
-|                                         | 2  |           | 40 (53.33)    | 8 (38.10)     | 32 (59.26)    |         |
+| fivep_sex, n (%)                        | M  |           | 35 (46.67)    | 13 (61.90)    | 22 (40.74)    | 0.1640  |
+|                                         | F  |           | 40 (53.33)    | 8 (38.10)     | 32 (59.26)    |         |
 | sports_yn, n (%)                        | 0  |           | 12 (16.00)    | 8 (38.10)     | 4 (7.41)      | **0.0037**  |
 |                                         | 1  |           | 63 (84.00)    | 13 (61.90)    | 50 (92.59)    |         |
 | conc_hx_yn, n (%)                       | 0  |           | 36 (48.00)    | 12 (57.14)    | 24 (44.44)    | 0.4648  |
@@ -171,7 +173,9 @@ At month one after symptom resolution, n=54 subjects were participating in sport
 
 --- 
 
-At three months after symptom resolution, n=74 subjects had participated in sport (cumulative), n=15 had not, and n=0 failed to complete at least one survey in the three months. Mean and standard deviation or n (%) are provided in Table 4 below. 
+## Part 2: Within 3 months of symptom resolution...
+
+At three months after symptom resolution, n=74 subjects had participated in sport (cumulative) and n=15 had not. Mean and standard deviation or n (%) are provided in Table 4 below. 
 
 **Table 4:** Comparing those participating and not participating in sports within three months of symptom resolution. P-values reflect Wilcoxon Rank Sum tests or Chi Squared tests for between-group differences. 
 |                                         |    | Missing   | Overall       | 0             | 1             | P value |
@@ -199,12 +203,14 @@ At three months after symptom resolution, n=74 subjects had participated in spor
 
 ---
 
-Last, we constructed a Cox Proportional Hazards model to evaluate how sport-related injury mechanism and PCSI score at symptom resolution were associated with the hazard of sport participation in the three months after concussion symptoms had resolved. We found that the hazard of sport participation was significantly higher among subjects with a sport-related mechanism of injury (HR: 2.46; 95% CI: 1.11, 5.45; p-value: 0.03). Those who sustained their injury in sports had two and a half times the likelihood of earlier participation in sports during the three months following symptom resolution, compared to those who did not sustain injury during sports. PCSI score was not significantly associated with hazard of sport participation (HR: 0.99; 95% CI: 0.95, 1.03; p-value: 0.61). 
+Last, we constructed a Cox Proportional Hazards model to evaluate if sport-related injury mechanism and PCSI score at symptom resolution were associated with the hazard of sport participation in the three months after concussion symptoms had resolved. We found that the hazard of sport participation was significantly higher among subjects with a sport-related mechanism of injury (HR: 2.46; 95% CI: 1.11, 5.45; p-value: 0.03). Those with a sports-related mechanism of injury had two and a half times the likelihood of earlier participation in sports during the three months following symptom resolution, compared to those who did not sustain injury during sports. PCSI score was not significantly associated with hazard of sport participation (HR: 0.99; 95% CI: 0.95, 1.03; p-value: 0.61). 
+
+**Concluding statement:** Future research should explore strategies to better support individuals who were not injured during active sports participation, with the goal of increasing their likelihood of returning to sport within three months after symptom resolution. Encouragingly, psychological and physical factors such as fear of movement, physical function, and confidence in returning to sport do not appear to be associated with sport participation in the months after symptoms have resolved.
+
 
 **Figure 5:** Kaplan Meier curve showing the probability of returning to sport participation by month after concussion symptom resolution. 
 
 <img src="figs/Figure5.png" alt="KM curve" width="600">  
-
 
 ---
 
@@ -215,7 +221,3 @@ Last, we constructed a Cox Proportional Hazards model to evaluate how sport-rela
 | TSK sxres| 0.99         | 0.95     | 1.03     | 0.61    |
 | PROMIS Phys Func | 0.95 | 0.79     | 1.15     | 0.62    |
 | IPRRS sxres | 1.01      | 0.98     | 1.05     | 0.58    | 
-
-
-
-Add DOI to M1 and look at clearance to rtp
