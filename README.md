@@ -79,6 +79,7 @@ A total of 83 subjects were at least 3 months post-symptom resolution and had co
 | sx_to_m1, mean (SD)                     |      | 22        | 48.07 (13.14)  |
 | sx_to_m2, mean (SD)                     |      | 20        | 76.37 (10.32)  |
 | sx_to_m3, mean (SD)                     |      | 33        | 108.04 (13.06) |
+| doi_to_m1, mean (SD)                    |      | 18        | 89.23 (28.75)  |
 **Time to symptom resolution range: 10-138 days*
 
 ## Primary objective: 
@@ -117,9 +118,9 @@ Participation in sports was reported by 65.1% of subjects (n=54) in month one af
 | avg_hrs_total, mean (SD)                |      | 14        | 35.26 (31.53)  |
 
 
-The cumulative percentage of subjects participating in sports and hours of sport participation are shown in Figure 1. Average hours of sport participation across all three months is shown in Figure 2. 
+The cumulative percentage of subjects participating in sports and hours of sport participation are shown in Figure 1. The average hours of sport participation across all three months is shown in Figure 2. 
 
-**Figure 1:** Cumulative percent of subjects who have reported participating in sports at some point by months one, two, and three (grey dashed line). The average practice and game hours participating in sport for months one, two and three are also shown (black solid line). Note the different y-axes on the left and right sides of the plot, corresponding in color to their line plot. 
+**Figure 1:** Cumulative percent of subjects who have reported participating in sports at some point by months one, two, and three (grey dashed line). The average practice and game hours participating in sport for months one, two, and three are also shown (black solid line). Note the different y-axes on the left and right sides of the plot, corresponding in color to their line plot. 
 
 <img src="figs/Figure1.png" alt="cumulative percent plot" width="600">  
 
@@ -190,7 +191,8 @@ At three months after symptom resolution, n=74 subjects had participated in spor
 
 Last, we constructed a Cox Proportional Hazards model to evaluate how sport-related injury mechanism and PCSI score at symptom resolution were associated with the hazard of sport participation in the three months after concussion symptoms had resolved. We found that the hazard of sport participation was significantly higher among subjects with a sport-related mechanism of injury (HR: 2.46; 95% CI: 1.11, 5.45; p-value: 0.03). Those who sustained their injury in sports had two and a half times the likelihood of earlier participation in sports during the three months following symptom resolution, compared to those who did not sustain injury during sports. PCSI score was not significantly associated with hazard of sport participation (HR: 0.99; 95% CI: 0.95, 1.03; p-value: 0.61). 
 
-**Figure 5:** Kaplan Meier curve showing the probability of returing to sport participation by month after concussion symptom resolution. 
+**Figure 5:** Kaplan Meier curve showing the probability of returning to sport participation by month after concussion symptom resolution. 
+
 <img src="figs/Figure5.png" alt="KM curve" width="600">  
 
 
