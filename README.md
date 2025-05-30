@@ -80,6 +80,10 @@ A total of 83 subjects were at least 3 months post-symptom resolution and had co
 | sx_to_m2, mean (SD)                     |      | 20        | 76.37 (10.32)  |
 | sx_to_m3, mean (SD)                     |      | 33        | 108.04 (13.06) |
 | doi_to_m1, mean (SD)                    |      | 18        | 89.23 (28.75)  |
+| doi_to_rtp, mean (SD)                   |      | 7         | 45.78 (29.09)  |
+| pct cleared to rtp by month 1, n (%)    | 0.0  |           | 71 (85.54)     | 
+|                                         | 1.0  |           | 3 (3.61)       |
+|                                         | None |           | 9 (10.84)      |
 **Time to symptom resolution range: 10-138 days*
 
 ## Primary objective: 
